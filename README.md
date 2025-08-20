@@ -1,4 +1,4 @@
-# Course-Registration-Planner
+# SKKU Planner
 [성균관대학교 자연과학 캠퍼스 전용]
 
 수강 신청 목록을 자동으로 계획해줍니다.
