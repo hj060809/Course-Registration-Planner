@@ -43,5 +43,5 @@
     - Worker: FastAPI
 - GraphQL
 
-## [Designs] (https://www.figma.com/design/JmDadXelLILF3NlyRBSfkz/SKKU-Planner?node-id=0-1&t=bmfNqiv48IhFf8W4-1)
+## [Designs](https://www.figma.com/design/JmDadXelLILF3NlyRBSfkz/SKKU-Planner?node-id=0-1&t=bmfNqiv48IhFf8W4-1)
  : UI Designs on Figma
