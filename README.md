@@ -38,15 +38,12 @@
 
 ## Problem
 - 건물 간 거리를 고려하지 못합니다.
-    - 알아도 이건 좀...
-    - 알고리즘 어케 짬?
     - => 성균관대 전용으로 범위를 줄여 해결합니다.
 
 ## Tech Stack
 - TypeScript
     - Backend: NestJS
-    - Frontend: Svelte? Vue? NextJS?
-    - Worker: FastAPI?
+    - Frontend: NextJS
+    - Worker: FastAPI
 - GraphQL
-- PostgreSQL
-- 
+- SQLite
