@@ -36,12 +36,6 @@
         - 교과 분류 (교양)
         - 수강 대상
 
-## Problem
-- 건물 간 거리를 고려하지 못합니다.
-    - 알아도 이건 좀...
-    - 알고리즘 어케 짬?
-    - => 성균관대 전용으로 범위를 줄여 해결합니다.
-
 ## Tech Stack
 - TypeScript
     - Backend: NestJS
@@ -49,4 +43,6 @@
     - Worker: FastAPI?
 - GraphQL
 - PostgreSQL
-- 
+
+## [Designs] (https://www.figma.com/design/JmDadXelLILF3NlyRBSfkz/SKKU-Planner?node-id=0-1&t=bmfNqiv48IhFf8W4-1)
+ : UI Designs on Figma
